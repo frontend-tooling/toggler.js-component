@@ -1,0 +1,26 @@
+{
+  "name": "toggler.js",
+  "main": "toggler.js",
+  "authors": [
+    "Stefan Baumgartner <sbaumg@gmail.com>"
+  ],
+  "description": "A demo component in UMD for the front-end tooling book",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "http://fettblog.eu",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.4"
+  }
+}
